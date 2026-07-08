@@ -58,7 +58,7 @@ This project is released under the MIT License, a permissive open source license
 ```
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 Michael DALLA RIVA
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
