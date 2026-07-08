@@ -1,4 +1,4 @@
-# PowerShell Gorillas - Graphical Edition
+# GorillazAtWar - Graphical Edition
 
 A two player artillery game written entirely in PowerShell 7, using Windows Forms and GDI+ for graphics. Two gorillas stand on top of randomly generated buildings and take turns lobbing an exploding banana at each other, adjusting angle and power while accounting for wind.
 
