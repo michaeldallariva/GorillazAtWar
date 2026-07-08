@@ -80,8 +80,6 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-Replace `[Your Name]` and the copyright year with your own details before publishing.
-
 ## Disclaimer
 
 This is a fan made, independent project created for educational and entertainment purposes. It is not affiliated with, endorsed by, or connected to IBM or Microsoft. All trademarks belong to their respective owners.
