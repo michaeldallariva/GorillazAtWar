@@ -2,6 +2,8 @@
 
 A two player artillery game written entirely in PowerShell 7, using Windows Forms and GDI+ for graphics. Two gorillas stand on top of randomly generated buildings and take turns lobbing an exploding banana at each other, adjusting angle and power while accounting for wind.
 
+<img width="1254" height="1254" alt="Image" src="https://github.com/user-attachments/assets/73635376-a5e7-4df7-96cd-1b79c9c688c3" />
+
 ## Historical Reference
 
 This project is based on the general concept of the original QBasic Gorillas game, which shipped as a sample program with MS-DOS 5.0 and QBasic around 1991. The exact original authorship is unclear. Some sources credit IBM, others credit Microsoft, and the information available online is conflicting, so no definitive original author credit can be given here.
