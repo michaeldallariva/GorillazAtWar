@@ -85,5 +85,5 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 This is a fan made, independent project created for educational and entertainment purposes. It is not affiliated with, endorsed by, or connected to IBM or Microsoft. All trademarks belong to their respective owners.
 
 
-<img width="1178" height="940" alt="Image" src="https://github.com/user-attachments/assets/653bef36-ccc2-4c23-a074-32aff0f0ae9f" />
-<img width="1171" height="945" alt="Image" src="https://github.com/user-attachments/assets/8e2dd3cd-1da2-41e2-a7e6-ecc0d02de174" />
+<img width="1191" height="857" alt="Image" src="https://github.com/user-attachments/assets/8a673830-1576-47b2-96e0-561f4b7664a9" />
+
