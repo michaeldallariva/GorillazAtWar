@@ -46,7 +46,6 @@ The script requires a single threaded apartment (STA) thread for Windows Forms. 
 - Set Angle (0 to 90 degrees) and Power (1 to 100) for each player
 - Click THROW to launch the banana
 - Toggle CPU Opponent to let the computer play Player 2
-- Adjust Explosion Power and Game Speed with the sliders
 - Use the speaker icon to mute or unmute sound
 - Use the sun or moon icon to switch between day and night
 - Click New Game to reset the score and generate a new skyline
